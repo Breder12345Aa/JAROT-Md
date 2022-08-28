@@ -446,7 +446,7 @@ exports.leave = () => {
 exports.donasi  = (ownernomer) => {
 	return`
 —————「 *DONATE* 」—————
-
+→ silakan Donasi ke 083183321692 ( dana )
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 Berapapun donasi kalian akan sangat berarti 👍
