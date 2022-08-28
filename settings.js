@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285850539404','6285850539404','6285850539404'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6285850539404'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6285850539404' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['15012058590','15012058590','6283183321692'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['15012058590'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '15012058590' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'oscar' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'oscar-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'oscar' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𝑇𝑧𝑝𝑒𝑟' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ʙʟᴀᴄᴋ ʙᴏᴛ ᴏғᴄ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '𝑇𝑧𝑝𝑒𝑟' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtu.be/sKYZri1Envg'
-global.ig = 'https://instagram.com/frnshpvirtual_'
+global.ig = 'Gadak Bnh'
 global.mygc = 'https://chat.whatsapp.com/E5l0ofPuMxG3H8ZhMRyI7e'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
-global.region = 'indonesia'
+global.myweb = 'http://wa.me/15012058590?text=BANG+MAU+ORDER+BOT'
+global.email = '𝑇𝑧𝑝𝑒𝑟@gmail.com'
+global.region = 'canada / america'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Oscar-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'oscar' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© ʙʟᴀᴄᴋ ʙᴏᴛ ᴏғᴄ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = '𝑇𝑧𝑝𝑒𝑟' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
